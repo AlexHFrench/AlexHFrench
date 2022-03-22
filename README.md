@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello, my name is Alexander French but if you've made it this far you can call me Alex 👋
+
+#### I am 29 years old and looking for my first job as a Data Scientist or Data Analyst.
+#### I am self-taught and hope to one day be a senior/project-lead Data Scientist and perhaps ML Engineer.
+
+#### 
 
 <!--
 **AlexHFrench/AlexHFrench** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
